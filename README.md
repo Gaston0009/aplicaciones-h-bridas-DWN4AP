@@ -1,2 +1,2 @@
-# aplicaciones-h-bridas-DWN4AP
+# Aplicaciones-Hibridas-DWN4AP
 Trabajos Practicos
